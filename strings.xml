@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">calcul de poids</string>
+    <string name="titre">Calcul de poids</string>
+    <string name="taille">Taille</string>
+    <string name="cm">cm</string>
+    <string name="genre">Genre</string>
+    <string name="saisitaille">Tapez votre taille en cm</string>
+    <string name="afficheres">Poids idéal</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+    <string name="text">Calculatrice Poids idéal</string>
+    <string name="texxt">Résultat</string>
+    <string name="texxxt">annuler</string>
+</resources>
